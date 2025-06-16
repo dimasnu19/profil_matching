@@ -1,0 +1,381 @@
+Array
+(
+    [0] => Array
+        (
+            [kode_pemain] => A5
+            [nama_pemain] => Gilang Ramadhan
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => 2
+                                    [T2] => 1
+                                    [T3] => 0
+                                    [T4] => 2
+                                    [T5] => 0
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 3.5
+                                    [T2] => 4.5
+                                    [T3] => 5
+                                    [T4] => 3.5
+                                    [T5] => 5
+                                )
+
+                            [ncf] => 4.25
+                            [nsf] => 4.25
+                            [nt] => 4.25
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => 0
+                                    [I2] => 1
+                                    [I3] => 1
+                                    [I4] => 0
+                                    [I5] => 0
+                                    [I6] => 3
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 5
+                                    [I2] => 4.5
+                                    [I3] => 4.5
+                                    [I4] => 5
+                                    [I5] => 5
+                                    [I6] => 2.5
+                                )
+
+                            [ncf] => 4.75
+                            [nsf] => 4.3
+                            [nt] => 4.57
+                        )
+
+                )
+
+            [final_score] => 4.378
+            [rank] => 1
+        )
+
+    [1] => Array
+        (
+            [kode_pemain] => A2
+            [nama_pemain] => Fajar Nugroho
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => 0
+                                    [T2] => 0
+                                    [T3] => -1
+                                    [T4] => 0
+                                    [T5] => -1
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 5
+                                    [T2] => 5
+                                    [T3] => 4
+                                    [T4] => 5
+                                    [T5] => 4
+                                )
+
+                            [ncf] => 4.3333333333333
+                            [nsf] => 5
+                            [nt] => 4.6
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => -1
+                                    [I2] => -1
+                                    [I3] => 0
+                                    [I4] => -1
+                                    [I5] => -2
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 4
+                                    [I2] => 4
+                                    [I3] => 5
+                                    [I4] => 4
+                                    [I5] => 3
+                                )
+
+                            [ncf] => 4
+                            [nsf] => 4
+                            [nt] => 4
+                        )
+
+                )
+
+            [final_score] => 4.36
+            [rank] => 2
+        )
+
+    [2] => Array
+        (
+            [kode_pemain] => A1
+            [nama_pemain] => Rizky Maulana
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => 0
+                                    [T2] => 0
+                                    [T3] => 0
+                                    [T4] => 0
+                                    [T5] => 0
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 5
+                                    [T2] => 5
+                                    [T3] => 5
+                                    [T4] => 5
+                                    [T5] => 5
+                                )
+
+                            [ncf] => 4.2407407407407
+                            [nsf] => 4.1111111111111
+                            [nt] => 4.1888888888889
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => 0
+                                    [I2] => 0
+                                    [I3] => 0
+                                    [I4] => 0
+                                    [I5] => 0
+                                    [I6] => 0
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 5
+                                    [I2] => 5
+                                    [I3] => 5
+                                    [I4] => 5
+                                    [I5] => 5
+                                    [I6] => 5
+                                )
+
+                            [ncf] => 4.5185185185185
+                            [nsf] => 4.4
+                            [nt] => 4.4711111111111
+                        )
+
+                )
+
+            [final_score] => 4.3017777777778
+            [rank] => 3
+        )
+
+    [3] => Array
+        (
+            [kode_pemain] => A4
+            [nama_pemain] => Surya Pratama
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => -1
+                                    [T2] => 0
+                                    [T3] => -3
+                                    [T4] => 0
+                                    [T5] => -1
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 4
+                                    [T2] => 5
+                                    [T3] => 2
+                                    [T4] => 5
+                                    [T5] => 4
+                                )
+
+                            [ncf] => 3.6666666666667
+                            [nsf] => 4.5
+                            [nt] => 4
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => -1
+                                    [I2] => -2
+                                    [I3] => 0
+                                    [I4] => -3
+                                    [I5] => -2
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 4
+                                    [I2] => 3
+                                    [I3] => 5
+                                    [I4] => 2
+                                    [I5] => 3
+                                )
+
+                            [ncf] => 3
+                            [nsf] => 4
+                            [nt] => 3.4
+                        )
+
+                )
+
+            [final_score] => 3.76
+            [rank] => 4
+        )
+
+    [4] => Array
+        (
+            [kode_pemain] => A3
+            [nama_pemain] => Arif Hidayat
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => 2
+                                    [T2] => -1
+                                    [T3] => 0
+                                    [T4] => 2
+                                    [T5] => -3
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 3.5
+                                    [T2] => 4
+                                    [T3] => 5
+                                    [T4] => 3.5
+                                    [T5] => 2
+                                )
+
+                            [ncf] => 3.5
+                            [nsf] => 3.75
+                            [nt] => 3.6
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => -2
+                                    [I2] => 1
+                                    [I3] => -1
+                                    [I4] => 0
+                                    [I5] => -3
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 3
+                                    [I2] => 4.5
+                                    [I3] => 4
+                                    [I4] => 5
+                                    [I5] => 2
+                                )
+
+                            [ncf] => 4.1666666666667
+                            [nsf] => 3
+                            [nt] => 3.7
+                        )
+
+                )
+
+            [final_score] => 3.64
+            [rank] => 5
+        )
+
+    [5] => Array
+        (
+            [kode_pemain] => A6
+            [nama_pemain] => Hanif Pria
+            [criteria] => Array
+                (
+                    [KT] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [T1] => -1
+                                    [T2] => -2
+                                    [T3] => -3
+                                    [T4] => -1
+                                    [T5] => -3
+                                )
+
+                            [weights] => Array
+                                (
+                                    [T1] => 4
+                                    [T2] => 3
+                                    [T3] => 2
+                                    [T4] => 4
+                                    [T5] => 2
+                                )
+
+                            [ncf] => 3.5833333333333
+                            [nsf] => 3.75
+                            [nt] => 3.65
+                        )
+
+                    [KI] => Array
+                        (
+                            [gaps] => Array
+                                (
+                                    [I1] => -3
+                                    [I2] => -2
+                                    [I3] => -2
+                                    [I4] => -3
+                                    [I5] => -3
+                                    [I6] => 0
+                                )
+
+                            [weights] => Array
+                                (
+                                    [I1] => 2
+                                    [I2] => 3
+                                    [I3] => 3
+                                    [I4] => 2
+                                    [I5] => 2
+                                    [I6] => 5
+                                )
+
+                            [ncf] => 3.5833333333333
+                            [nsf] => 3.6666666666667
+                            [nt] => 3.6166666666667
+                        )
+
+                )
+
+            [final_score] => 3.6366666666667
+            [rank] => 6
+        )
+
+)
